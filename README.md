@@ -1,3 +1,3 @@
 # sm
 
-repo for summer training 
+repo for summer tsks 
