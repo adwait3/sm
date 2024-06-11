@@ -3,6 +3,7 @@
 >2. dalvik's bytecode, registers are always 32 bits, and can hold any type of value. 2 registers are used to hold 64 bit types (Long and Double).
 >3. number of registers are stored in methods. a method has 2 arguments, and 5 registers (v0-v4), the arguments would be placed into the last 2 registers - v3 and v4.
 >4. learned about adb and how to use it on vm and use a phone via usb debugging.
+>5. learned about mob sf
 
 ### application structure 
 ```
