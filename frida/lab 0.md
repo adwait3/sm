@@ -20,3 +20,23 @@ then i used
 
  
  ![image](https://github.com/adwait3/sm/assets/148553626/966ab8e9-d4bd-471f-9538-c0ef9500326d)
+
+
+then i used jadx to see the source code of the application 
+
+
+![image](https://github.com/adwait3/sm/assets/148553626/56fef988-625d-460d-b3b4-bc865e7edb61)
+
+there was a function called chcek and i thought i found the flag but it was encrypted 
+
+
+![image](https://github.com/adwait3/sm/assets/148553626/61e421de-e5e0-4547-979f-9c9b2aaee34f)
+
+i used jadx to hook the method 
+
+![image](https://github.com/adwait3/sm/assets/148553626/91e63598-f057-42f7-9509-c2017b4e0c10)
+
+now 5 will be passed to check so we will get the desired output as 14 and we can pass that in the application
+
+![image](https://github.com/adwait3/sm/assets/148553626/4d39654e-2b5f-44fc-bc3b-b8a80f9fba0f)
+
